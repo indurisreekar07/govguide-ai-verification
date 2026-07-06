@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Portable Node
+node-portable/
+
+# Environment files
+.env
+backend/.env
+
+# Python cache
+*.pyc
